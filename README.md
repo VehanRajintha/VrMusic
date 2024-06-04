@@ -39,4 +39,7 @@
 - Android Auto
 - Persistent queue
 - Open YouTube/YouTube Music links (`watch`, `playlist`, `channel`)
-- ...
+
+
+## Download
+Free To Download From Release Section ...
